@@ -1,0 +1,209 @@
+Category,Equipment
+Tanks,T-54-3M
+Tanks,T-54B
+Tanks,T-55A
+Tanks,T-62
+Tanks,T-62M
+Tanks,T-62MV
+Tanks,T-64A
+Tanks,T-64BV
+Tanks,T-64BVK
+Tanks,T-72
+Tanks,T-72A
+Tanks,T-72AV
+Tanks,T-72B
+Tanks,T-72BA
+Tanks,T-72B3
+Tanks,T-80B
+Tanks,T-80BV
+Tanks,T-80BVK
+Tanks,T-80U
+Tanks,T-80UK
+Tanks,T-80UE-1
+Tanks,T-80UM2
+Tanks,T-80BVM
+Tanks,T-90A
+Tanks,T-90AK
+Tanks,T-90S
+Tanks,T-90M
+Armoured Fighting Vehicles,BMPT
+Armoured Fighting Vehicles,BRM-1(K)
+Armoured Fighting Vehicles,BRM-1K
+Armoured Fighting Vehicles,BRM-1
+Armoured Fighting Vehicles,BRDM-2
+Armoured Fighting Vehicles,BRDM-2M/A
+Armoured Fighting Vehicles,BRDM-2MS
+Armoured Fighting Vehicles,BRDM-2RKhb
+Armoured Fighting Vehicles,BRDM-2-based
+Armoured Fighting Vehicles,BTR-80-based
+Armoured Fighting Vehicles,BTR-80
+Armoured Fighting Vehicles,MT-LB
+Armoured Fighting Vehicles,MT-LBVM
+Armoured Fighting Vehicles,MT-LBVMK
+Armoured Fighting Vehicles,MT-LBVM(K)
+Armoured Fighting Vehicles,MT-LBu
+Armoured Fighting Vehicles,BMP-1
+Armoured Fighting Vehicles,Vityaz
+Armoured Fighting Vehicles,GAZ-3344-20
+Armoured Fighting Vehicles,2S1
+Armoured Fighting Vehicles,BMM-80
+Infantry Fighting Vehicles,BMP-1(P)
+Infantry Fighting Vehicles,BMP-1AM
+Infantry Fighting Vehicles,BMP-1U
+Infantry Fighting Vehicles,BMP-2(K)
+Infantry Fighting Vehicles,BMP-2D
+Infantry Fighting Vehicles,BMP-2M
+Infantry Fighting Vehicles,BMP-2
+Infantry Fighting Vehicles,BMP-3
+Infantry Fighting Vehicles,MT-LBM
+Infantry Fighting Vehicles,BMD-2
+Infantry Fighting Vehicles,BMD-4M
+Infantry Fighting Vehicles,BTR-82A(M)
+Infantry Fighting Vehicles,BTR-82AT
+Armoured Personnel Carriers,BTR-50
+Armoured Personnel Carriers,BTR-60PB
+Armoured Personnel Carriers,BTR-70
+Armoured Personnel Carriers,BTR-70M
+Armoured Personnel Carriers,Remdiesel
+Armoured Personnel Carriers,Ural-VV
+Armoured Personnel Carriers,BTR-D
+Armoured Personnel Carriers,BTR-MDM
+Armoured Personnel Carriers,Plastun-SN
+Armoured Personnel Carriers,BMO-T
+Armoured Personnel Carriers,VTS
+Infantry Mobility Vehicles,BPM-97
+Infantry Mobility Vehicles,GAZ-233036
+Infantry Mobility Vehicles,GAZ-233014
+Infantry Mobility Vehicles,AMN-233114
+Infantry Mobility Vehicles,ASN-233115
+Infantry Mobility Vehicles,VPK-233136
+Infantry Mobility Vehicles,AMN-590951
+Infantry Mobility Vehicles,Iveco
+Infantry Mobility Vehicles,GAZ-39371
+Infantry Mobility Vehicles,KamAZ
+Infantry Mobility Vehicles,RIDA
+Infantry Mobility Vehicles,STS
+Unmanned Ground Vehicles,Uran-6
+Unmanned Ground Vehicles,Kuryer
+Self-Propelled Anti-Tank Missile Systems,9P148
+Self-Propelled Anti-Tank Missile Systems,9P149
+Self-Propelled Anti-Tank Missile Systems,9K132
+Self-Propelled Anti-Tank Missile Systems,9P163M-1
+Artillery Support Vehicles And Equipment,1V110
+Artillery Support Vehicles And Equipment,1V12(M)
+Artillery Support Vehicles And Equipment,1V13(M)
+Artillery Support Vehicles And Equipment,1V14
+Artillery Support Vehicles And Equipment,1V15M
+Artillery Support Vehicles And Equipment,1V16
+Artillery Support Vehicles And Equipment,1V18
+Artillery Support Vehicles And Equipment,1V119
+Artillery Support Vehicles And Equipment,1V1003
+Artillery Support Vehicles And Equipment,9T452
+Artillery Support Vehicles And Equipment,TZM
+Artillery Support Vehicles And Equipment,TZM-T
+Artillery Support Vehicles And Equipment,PRP-4(M)
+Artillery Support Vehicles And Equipment,PRP-4A
+Aircraft,MiG-31BM
+Aircraft,Su-25
+Aircraft,Su-24M
+Aircraft,Su-24MR
+Aircraft,Su-24M/MR
+Aircraft,Su-27
+Aircraft,Su-30SM
+Aircraft,Su-34
+Aircraft,Su-34M
+Aircraft,Su-35S
+Aircraft,Su-57
+Aircraft,Tu-22M3
+Aircraft,Tu-95MS
+Aircraft,Il-22
+Aircraft,Beriev
+Aircraft,An-26
+Aircraft,Il-76
+Helicopters,Mi-8
+Helicopters,Mi-8MTPR-1
+Helicopters,Mi-24P
+Helicopters,Mi-24V/P/35M
+Helicopters,Mi-35M
+Helicopters,Mi-28
+Helicopters,Ka-29
+Helicopters,Ka-52
+Unmanned Combat Aerial Vehicles,Orion
+Unmanned Combat Aerial Vehicles,Korsar
+Unmanned Combat Aerial Vehicles,Forpost-RU
+Unmanned Combat Aerial Vehicles,Mohajer-6
+Unmanned Combat Aerial Vehicles,Orlan-10
+Unmanned Combat Aerial Vehicles,1Eleron
+Unmanned Combat Aerial Vehicles,Sukhoi
+Reconnaissance Unmanned Aerial Vehicles,Forpost
+Reconnaissance Unmanned Aerial Vehicles,'Orlan-20'
+Reconnaissance Unmanned Aerial Vehicles,Orlan-30
+Reconnaissance Unmanned Aerial Vehicles,Granat-3
+Reconnaissance Unmanned Aerial Vehicles,Granat-4
+Reconnaissance Unmanned Aerial Vehicles,Eleron-3
+Reconnaissance Unmanned Aerial Vehicles,Eleron-3SV
+Reconnaissance Unmanned Aerial Vehicles,Eleron-10
+Reconnaissance Unmanned Aerial Vehicles,Eleron
+Reconnaissance Unmanned Aerial Vehicles,Takhion
+Reconnaissance Unmanned Aerial Vehicles,ZALA
+Reconnaissance Unmanned Aerial Vehicles,Merlin-VR
+Reconnaissance Unmanned Aerial Vehicles,Lastochka-M
+Reconnaissance Unmanned Aerial Vehicles,Supercam
+Reconnaissance Unmanned Aerial Vehicles,'Albatros'
+Reconnaissance Unmanned Aerial Vehicles,SKAT
+Reconnaissance Unmanned Aerial Vehicles,Grifon-12
+Reconnaissance Unmanned Aerial Vehicles,Feniks
+Naval Ships,Project
+Naval Ships,Stenka-class
+Naval Ships,T-43
+"Trucks, Vehicles, and Jeeps",GAZ-51
+"Trucks, Vehicles, and Jeeps",GAZ-66
+"Trucks, Vehicles, and Jeeps",GAZ-3308
+"Trucks, Vehicles, and Jeeps",GAZ
+"Trucks, Vehicles, and Jeeps",GAZ-S41A23
+"Trucks, Vehicles, and Jeeps",KrAZ-255B
+"Trucks, Vehicles, and Jeeps",KrAZ-260
+"Trucks, Vehicles, and Jeeps",ZiL-130
+"Trucks, Vehicles, and Jeeps",ZiL-131
+"Trucks, Vehicles, and Jeeps",2F77M
+"Trucks, Vehicles, and Jeeps",2F510
+"Trucks, Vehicles, and Jeeps",9T217
+"Trucks, Vehicles, and Jeeps",9T244
+"Trucks, Vehicles, and Jeeps",BAZ-69092
+"Trucks, Vehicles, and Jeeps",APA-80
+"Trucks, Vehicles, and Jeeps",APA-5D
+"Trucks, Vehicles, and Jeeps",Ural-375D
+"Trucks, Vehicles, and Jeeps",Ural-4320
+"Trucks, Vehicles, and Jeeps",Ural
+"Trucks, Vehicles, and Jeeps",Ural-43206
+"Trucks, Vehicles, and Jeeps",Ural-532301
+"Trucks, Vehicles, and Jeeps",Ural-5323
+"Trucks, Vehicles, and Jeeps",Mobile
+"Trucks, Vehicles, and Jeeps",PAK-200(M)
+"Trucks, Vehicles, and Jeeps",Ural-63704-0010
+"Trucks, Vehicles, and Jeeps",Ural-542301
+"Trucks, Vehicles, and Jeeps",Ural-63501-AT
+"Trucks, Vehicles, and Jeeps",MAZ-5337
+"Trucks, Vehicles, and Jeeps",MAZ
+"Trucks, Vehicles, and Jeeps",AS-4350
+"Trucks, Vehicles, and Jeeps",AS-4350.1
+"Trucks, Vehicles, and Jeeps",KamAZ-4385
+"Trucks, Vehicles, and Jeeps",AP-2
+"Trucks, Vehicles, and Jeeps",KamAZ-5350
+"Trucks, Vehicles, and Jeeps",KamAZ-6350
+"Trucks, Vehicles, and Jeeps",ATS-59G
+"Trucks, Vehicles, and Jeeps",KamAZ-65117
+"Trucks, Vehicles, and Jeeps",UAZ-469
+"Trucks, Vehicles, and Jeeps",UAZ-469RKh(B)
+"Trucks, Vehicles, and Jeeps",UAZ-452
+"Trucks, Vehicles, and Jeeps",UAZ-3303
+"Trucks, Vehicles, and Jeeps",LuAZ-969
+"Trucks, Vehicles, and Jeeps",UAZ
+"Trucks, Vehicles, and Jeeps",UAZ-3151
+"Trucks, Vehicles, and Jeeps",UAZ-3153
+"Trucks, Vehicles, and Jeeps",UAZ-31514
+"Trucks, Vehicles, and Jeeps",UAZ-23632
+"Trucks, Vehicles, and Jeeps",UAZ-23632-148-64
+"Trucks, Vehicles, and Jeeps",UAZ-394511
+"Trucks, Vehicles, and Jeeps",UAZ-515195
+"Trucks, Vehicles, and Jeeps",UAZ-39094
