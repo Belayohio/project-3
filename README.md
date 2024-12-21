@@ -36,12 +36,12 @@ examples--
 
 column ['geo'] should be split on comma into lat and long columns
 
-column ['tags'] the data should be extracted and saved tags[] list, duplicate values should be droped, and a tags_df should be created, where each unique tag has an index. corrupted tags should be deleted.
+column ['tags'] the data should be extracted and saved as tags[ ] list, duplicate values should be droped, and a tags_df should be created, where each unique tag has an index. corrupted tags should be deleted.
 
 values in column ['tags'] then should be replaced with numbers - idexes of tags
 
 example --
 
-"Z, Cope cage, Jammer, Additional armour" should look like " 23, 65, 7, 43" or whever the coresponding indexes would be for those tags
+"Z, Cope cage, Jammer, Additional armour" should look like " 23, 65, 7, 43" or whatever the coresponding indexes would be for those tags
 
 PART 3# project-3
