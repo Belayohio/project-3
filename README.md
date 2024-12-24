@@ -49,3 +49,20 @@ example --
 df should be saved as tags_index.csv (table 3)
 
 
+ERD creation 
+
+We will import it to Postgres SQL, and we will create a table based on the ERD.
+
+In Table 1 primary key will be “Equipment” column saved as varchar - it will be linked to the “model” 
+column in Table 2 saved as varchar.
+
+If value in “Equipment” is contained within the value “model” column in Table 2
+-will allow to conduct query by searching for equipment category or model
+
+In Table 2 primary key will be “id” column,
+
+In Table 3 primary key will be “index” column
+
+-will allow you to search data by tags.
+-or link category or model with tags (AKA damage sustained counts)
+
