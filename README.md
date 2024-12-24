@@ -46,4 +46,6 @@ example --
 
 "Z, Cope cage, Jammer, Additional armour" should look like " 23, 65, 7, 43" or whatever the coresponding indexes would be for those tags
 
-PART 3# project-3
+df should be saved as tags_index.csv (table 3)
+
+
