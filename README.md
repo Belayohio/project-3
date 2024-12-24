@@ -36,6 +36,8 @@ examples--
 
 column ['geo'] should be split on comma into lat and long columns
 
+PART 3
+
 column ['tags'] the data should be extracted and saved as tags[ ] list, duplicate values should be droped, and a tags_df should be created, where each unique tag has an index. corrupted tags should be deleted.
 
 values in column ['tags'] then should be replaced with numbers - idexes of tags
