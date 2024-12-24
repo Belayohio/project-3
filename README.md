@@ -49,7 +49,10 @@ example --
 df should be saved as tags_index.csv (table 3)
 
 
-ERD creation 
+
+
+PART 4 - ERD creation 
+
 
 We will import it to Postgres SQL, and we will create a table based on the ERD.
 
