@@ -3745,7 +3745,7 @@ id,type,model,status,lost_by,date,nearest_location,geo,unit,tags
 7150,"Command posts, communication",R-149MA3 command and staff vehicle,Captured,Russia,2022-08-12,"Izium raion, Kharkiv oblast",,1st Motor Rifle Regiment,
 7151,Rocket and missile artillery,220mm 9P140 BM-27 (for 9K57 'Uragan'),Destroyed,Russia,2022-08-13,"Novomykolaivka, Beryslav raion","47.320944,33.433361",,
 7153,Drones,'Orlan-10' reconnaissance UAV,Destroyed,Russia,2022-08-13,,,,Shattered
-7154,Drones,'Orlan-10' reconnaissance UAV,Destroyed,Russia,2022-06-15,"Azot factory, Sievierodonetsk","48.937779,38.459445",,
+7154,Drones,'Orlan-10' reconnaissance UAV,Destroyed,Russia,2022-06-15,"Azot factory, Sievierodonetsk raion","48.937779,38.459445",,
 7155,Transport,KamAZ 6x6 tanker,Destroyed,Russia,2022-04-30,"Brazhkivka, Izium raion","49.042694,37.213250",,
 7156,Transport,UAZ-394511 'Esaul',Captured,Russia,2022-03-13,Kyiv oblast,,Rosgvardiya,V
 7157,Other,Unknown vehicle,Destroyed,Russia,2022-08-12,"Ziabrovka airbase, Belarus","52.305870,31.161570",,
@@ -8869,7 +8869,7 @@ id,type,model,status,lost_by,date,nearest_location,geo,unit,tags
 16607,Tanks,T-80BV,Destroyed,Russia,2023-09-24,"Avdiivka, Pokrovsk raion","48.10422,37.77698",,"Turretless, Z"
 16609,Infantry mobility vehicles,GAZ-233014 'Tigr',Destroyed,Russia,2023-05-27,Kherson oblast,,Rosgvardiya,
 16610,Towed artillery,152mm 2A65 'Msta-B' howitzer,Destroyed,Russia,2023-05-28,"Surkovo, Shebekino raion","50.476417,37.256056",,
-16611,Tanks,T-72B3 Obr. 2016,Destroyed,Russia,2023-02-13,Crimea,,150th Motor Rifle Division,"Mine plow/roller, Cope cage"
+16611,Tanks,T-72B3 Obr. 2016,Destroyed,Russia,2023-02-13,"Crimea, Crimea",,150th Motor Rifle Division,"Mine plow/roller, Cope cage"
 16612,Tanks,Unknown tank,Destroyed,Russia,2023-05-29,"Pervomaiske (Ocheretyne hromada), Pokrovsk raion",,,
 16613,Transport,UAZ-452,Damaged,Russia,2023-05-29,South Ukraine,,Southern Military District,∇
 16616,Transport,GAZ-66,Destroyed,Russia,2023-05-20,Luhansk oblast,,,
@@ -9149,7 +9149,7 @@ id,type,model,status,lost_by,date,nearest_location,geo,unit,tags
 17300,Infantry fighting vehicles,BMP-1(P),Destroyed,Russia,2023-06-19,"Staromaiorske, Volnovakha raion","47.75730,36.74774",,
 17302,Transport,KamAZ 6x6,Captured,Russia,2022-11-30,"Dudchany, Beryslav raion",,,Z
 17303,Infantry fighting vehicles,MT-LB,Captured,Russia,2022-03-07,"Chornohlazivka, Bohodukhiv raion","50.25752,36.03816",,
-17309,Helicopters,Mi-24P attack helicopter,Destroyed,Russia,2023-06-22,"Lyasnaya, Brest oblast",,440th Separate Helicopter Regiment,Z
+17309,Helicopters,Mi-24P attack helicopter,Destroyed,Russia,2023-06-22,"Lyasnaya, Baranavichi raion, Brest oblast",,440th Separate Helicopter Regiment,Z
 17310,Helicopters,Ka-52 'Alligator' attack helicopter,Destroyed,Russia,2023-06-24,"Komintern, Talovaya raion","51.12187,40.64655",15th Army Aviation Brigade,Shattered
 17313,Drones,Orion UCAV,Destroyed,Russia,2022-05-31,"Mariupol, Mariupol raion",,,
 17315,Tanks,T-62MV,Destroyed,Russia,2023-06-30,"Oleksandrivka, Donetsk raion","47.894056,37.524778",,"Turretless, Shattered, Cope cage"
