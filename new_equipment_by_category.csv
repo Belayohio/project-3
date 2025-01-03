@@ -1,0 +1,478 @@
+Category,Equipment
+Airplanes,Su-27P
+Airplanes,Su-24M
+Airplanes,Su-24MR
+Airplanes,Su-24M/MR
+Airplanes,Su-27
+Airplanes,Su-30SM
+Airplanes,Su-34
+Airplanes,Su-34M
+Airplanes,Su-35S
+Airplanes,MiG-31BM
+Airplanes,Su-57
+Airplanes,Tu-95MS
+Airplanes,airborne
+Airplanes,A-50
+Airplanes,Be-200
+Airplanes,An-26
+Airplanes,Il-76
+Airplanes,Su-25SM
+Airplanes,Su-25SM3
+Airplanes,Tu-22M3
+Airplanes,Il-22
+Airplanes,Su-25
+Airplanes,A-50U
+"Ambulances, medical vehicles",ZSA-Т
+"Ambulances, medical vehicles",AS-4350.1
+Anti-aircraft systems,5P85SD
+Anti-aircraft systems,23mm
+Anti-aircraft systems,Launcher
+Anti-aircraft systems,BTR-ZD
+Anti-aircraft systems,9K331MDT
+Anti-aircraft systems,2A6
+Anti-aircraft systems,2S6M
+Anti-aircraft systems,9A331MU
+Anti-aircraft systems,9A332
+Anti-aircraft systems,50P6E
+Anti-aircraft systems,9A331
+Anti-aircraft systems,9A331M
+Anti-aircraft systems,5P85SM2-01
+Anti-aircraft systems,9A34M/35M
+Anti-aircraft systems,9A310M1-2
+Anti-aircraft systems,9A39M1-2
+Anti-aircraft systems,57mm
+Anti-aircraft systems,5P85TM/T2
+Anti-aircraft systems,9A317M
+Anti-aircraft systems,9A316
+Anti-aircraft systems,9A84-2
+Anti-aircraft systems,9A83M2
+Anti-aircraft systems,9A317
+Anti-aircraft systems,72V6
+Anti-aircraft systems,9A330
+Anti-aircraft systems,9A33BM
+Anti-aircraft systems,Kamaz
+Anti-tank systems,9P162
+Armoured Fighting Vehicles,BMM-80
+Armoured Fighting Vehicles,2S1
+Armoured Fighting Vehicles,Terminator
+Armoured Fighting Vehicles,BRM-1(K)
+Armoured Fighting Vehicles,BRM-1K
+Armoured Fighting Vehicles,BRM-1
+Armoured Fighting Vehicles,BRDM-2
+Armoured Fighting Vehicles,BRDM-2M/A
+Armoured Fighting Vehicles,BRDM-2MS
+Armoured Fighting Vehicles,chemical
+Armoured Fighting Vehicles,BRDM-2-based
+Armoured Fighting Vehicles,BTR-80-based
+Armoured Fighting Vehicles,with
+Armoured Fighting Vehicles,MT-LB
+Armoured Fighting Vehicles,AZP
+Armoured Fighting Vehicles,MT-LBVM
+Armoured Fighting Vehicles,MT-LBVM(K)
+Armoured Fighting Vehicles,GAZ-3344-20
+Armoured Fighting Vehicles,Vityaz
+Armoured Fighting Vehicles,BMP-1
+Armoured Fighting Vehicles,MT-LBu
+Armoured Fighting Vehicles,MT-LBVMK
+Armoured Personnel Carriers,BTR-MDM
+Armoured Personnel Carriers,BTR-50
+Armoured Personnel Carriers,BTR-60PB
+Armoured Personnel Carriers,Plastun-SN
+Armoured Personnel Carriers,BTR-70M
+Armoured Personnel Carriers,BTR-80
+Armoured Personnel Carriers,Remdiesel
+Armoured Personnel Carriers,BTR-D
+Armoured Personnel Carriers,VTS
+Armoured Personnel Carriers,BMO-T
+Armoured Personnel Carriers,BTR-70
+Artillery Support Vehicles And Equipment,Klyon-1
+Artillery Support Vehicles And Equipment,artillery
+Artillery Support Vehicles And Equipment,TZM-T
+Artillery Support Vehicles And Equipment,9T234-2
+Artillery Support Vehicles And Equipment,9T452
+Artillery Support Vehicles And Equipment,command
+Artillery Support Vehicles And Equipment,1V119
+Artillery Support Vehicles And Equipment,fire
+Artillery Support Vehicles And Equipment,Argus
+Artillery Support Vehicles And Equipment,1V13(M)
+Artillery Support Vehicles And Equipment,Mashina-S'/'Faltset
+Artillery Support Vehicles And Equipment,BM-21
+Artillery Support Vehicles And Equipment,1V14
+"Command posts, communication",9S932-2
+"Command posts, communication",R-149AKSh(-1)
+"Command posts, communication",R-419L1
+"Command posts, communication",P-260-U
+"Command posts, communication",MPUS-K
+"Command posts, communication",R-416GM
+"Command posts, communication",9S932-1
+"Command posts, communication",Lancet
+"Command posts, communication",R-161
+"Command posts, communication",APE-3
+"Command posts, communication",55K6A
+"Command posts, communication",R-412A
+"Command posts, communication",9S470M1-2
+"Command posts, communication",MSh-5350.1
+"Command posts, communication",APE-5
+"Command posts, communication",R-149MA3
+"Command posts, communication",MP-2IM
+"Command posts, communication",R-149MA1
+"Command posts, communication",R-145BM1
+"Command posts, communication",R-145BM
+"Command posts, communication",P-230T
+"Command posts, communication",R-145BMA
+"Command posts, communication",BMD-1KSh-A
+"Command posts, communication",BMP-1KSh
+"Command posts, communication",MP-1IM
+"Command posts, communication",1V14(M)
+"Command posts, communication",1V15(M)
+"Command posts, communication",1V110
+"Command posts, communication",AShT-4310
+"Command posts, communication",R-166-0.5
+"Command posts, communication",R-431AM
+"Command posts, communication",P-240
+"Command posts, communication",R-166
+"Command posts, communication",1V16(M)
+"Command posts, communication",1V1003
+"Command posts, communication",R-142NSA
+"Command posts, communication",MP32M1
+"Command posts, communication",R-381T2M
+"Command posts, communication",R-149BMRg
+"Command posts, communication",R-441
+"Command posts, communication",1V18
+"Command posts, communication",R-439-MD2
+"Command posts, communication",SA-14RM/SM
+Drones,Feniks
+Drones,S-70
+Drones,Luch
+Drones,Albatros
+Drones,Valdai-M
+Drones,Orlan
+Drones,Mohajer-6
+Drones,Eleron-7
+Drones,Grifon-12
+Drones,SKAT
+Engineering,MDK-3
+Engineering,BAT-2
+Engineering,BTS-4A
+Engineering,BREM-Ch
+Engineering,BREM-2
+Engineering,GMZ-3
+Engineering,BREM-1
+Engineering,MTO-AG-3M
+Engineering,BMK-MO
+Engineering,KS-55729-7M
+Engineering,BREM-K
+Engineering,Uran-6
+Engineering,GMZ-2
+Engineering,PZM-2
+Engineering,KrAZ-255
+Engineering,UR-77
+Engineering,KMV-10V
+Engineering,EOV-4421
+Engineering,REM-KL
+Engineering,KS-3574M(3)
+Engineering,KET-L
+Engineering,MTO-AM1
+Engineering,MRS-BT
+Engineering,MZA-M.1
+Engineering,8T210
+Engineering,MTO-AT
+Engineering,Zemledeliye
+Engineering,UMZ-K
+Engineering,BREM-D
+Engineering,MRM-M4.2
+Engineering,BREM-L
+Engineering,KT-S
+Engineering,KMV-20K
+Engineering,IMR-1
+Engineering,Coastal
+Engineering,MTP-A2
+Engineering,BTM-3
+Engineering,MTO-UB1
+Engineering,EOV-3521
+Engineering,KS-45719-7M
+Engineering,EOV-3523
+Engineering,BMK-460
+Engineering,BMK-130M/150
+Engineering,River
+Engineering,MTU-72
+Engineering,TMM-3
+Engineering,TMM-3M2
+Engineering,PTS-2
+Engineering,IMR-3M
+Engineering,IMR-2(M)
+Engineering,KT-L
+Engineering,MTO-UB2
+Engineering,Transitional
+Engineering,MTP-A2.1
+Helicopters,Ka-52M
+Helicopters,Mi-8MTKO
+Helicopters,Mi-8MTV-5
+Helicopters,Mi-8
+Helicopters,Mi-8MTPR-1
+Helicopters,Mi-24P
+Helicopters,Mi-24V/P/35M
+Helicopters,Mi-35M
+Helicopters,naval
+Helicopters,Ka-52
+Helicopters,Mi-28
+Helicopters,Mi-28NM
+Helicopters,Mi-8MTV-2
+Helicopters,Mi-28UB
+Helicopters,Mi-28N
+Helicopters,Mi-24VM
+Helicopters,Mi-8AMTSh
+Infantry Fighting Vehicles,BMP-2
+Infantry Fighting Vehicles,BMP-1AM
+Infantry Fighting Vehicles,BMD-2
+Infantry Fighting Vehicles,BMP-1(P)
+Infantry Fighting Vehicles,BMP-2(K)
+Infantry Fighting Vehicles,BMP-2D
+Infantry Fighting Vehicles,BMP-2M
+Infantry Fighting Vehicles,Shkval
+Infantry Fighting Vehicles,BMP-3
+Infantry Fighting Vehicles,MT-LBM
+Infantry Fighting Vehicles,BTR-82A(M)
+Infantry Fighting Vehicles,BMD-4M
+Infantry Fighting Vehicles,BTR-82AT
+Infantry Fighting Vehicles,4S24
+Infantry Mobility Vehicles,ASN-233115
+Infantry Mobility Vehicles,Sarmat-3
+Infantry Mobility Vehicles,RIDA
+Infantry Mobility Vehicles,Patrol
+Infantry Mobility Vehicles,GAZ-39371
+Infantry Mobility Vehicles,SBM
+Infantry Mobility Vehicles,AMN-590951
+Infantry Mobility Vehicles,GAZ-233014
+Infantry Mobility Vehicles,SPM-2
+Infantry Mobility Vehicles,Vystrel
+Infantry Mobility Vehicles,AMN-233114
+Infantry Mobility Vehicles,Iveco
+Infantry fighting vehicles,MT-LBu-based
+Infantry fighting vehicles,BRDM-2RKhB
+Infantry fighting vehicles,RKhM-6
+Infantry fighting vehicles,1V125/145
+Infantry fighting vehicles,BMPT
+Infantry fighting vehicles,Wheeled
+Infantry fighting vehicles,BMP-1U
+Infantry fighting vehicles,PRP-4A
+Infantry mobility vehicles,VPK-233136
+Infantry mobility vehicles,KamAZ-63968
+Infantry mobility vehicles,KamAZ-53949
+Infantry mobility vehicles,KamAZ-435029
+Infantry mobility vehicles,STS
+Infantry mobility vehicles,BPM-97
+Infantry mobility vehicles,Ural-432009
+Infantry mobility vehicles,Asteys-7020
+Infantry mobility vehicles,GAZ-233036
+Naval Ships,Project
+Naval Ships,266M
+Naval Ships,22800
+Naval Ships,640
+Naval Ships,1171
+Naval Ships,1176
+Naval Ships,22870
+Naval Ships,12411
+Naval Ships,class
+Naval Ships,Stenka-class
+Naval Ships,18280
+Naval Ships,22160
+Other,ZS-82
+Other,5I57(A)
+Other,Fuel
+Other,ZSZh-66
+Other,I-613M
+Other,ZS-88
+Other,UAZ-469RKh(B)
+Other,ARS-14
+Other,PPB-32VU
+Other,APA-80
+Other,APA-5D
+Other,TDA-3
+Other,Kuryer
+Other,RKhM-4
+Other,DDA-66
+Other,Mobile
+Other,ED2x30-T400-3RA
+"Radars, jammers",RB-636
+"Radars, jammers",RB-341V
+"Radars, jammers",Palantin
+"Radars, jammers",1L259
+"Radars, jammers",R-934B
+"Radars, jammers",1RL239(-1M)
+"Radars, jammers",RP-377LA
+"Radars, jammers",85Ya6
+"Radars, jammers",R-330M1P
+"Radars, jammers",9S18
+"Radars, jammers",R-934UM
+"Radars, jammers",1L119
+"Radars, jammers",Antenna
+"Radars, jammers",Support
+"Radars, jammers",1RL131-2
+"Radars, jammers",R-330Zh
+"Radars, jammers",92N6A
+"Radars, jammers",9S32M1
+"Radars, jammers",1L262E
+"Radars, jammers",9S19M2
+"Radars, jammers",Predel
+"Radars, jammers",9S36M
+"Radars, jammers",5N63S
+"Radars, jammers",64L6
+"Radars, jammers",1K148
+"Radars, jammers",1RL131
+"Radars, jammers",RB-109A
+"Radars, jammers",55Zh6U
+"Radars, jammers",Command
+"Radars, jammers",96L6-TsP
+"Radars, jammers",77Ya6-DM
+"Radars, jammers",R-378BMV
+"Radars, jammers",Sapfir
+"Radars, jammers",RB-636AM2
+"Radars, jammers",1RL232
+"Radars, jammers",9S36
+"Radars, jammers",9S18М1(-2)
+"Radars, jammers",9S18М1(-3)
+"Radars, jammers",9S80(-1)
+"Radars, jammers",1RL232-2M
+"Radars, jammers",1L261
+"Radars, jammers",R-934BMV
+"Radars, jammers",R-330BMV
+Reconnaissance Unmanned Aerial Vehicles,Merlin-VR
+Reconnaissance Unmanned Aerial Vehicles,Forpost
+Reconnaissance Unmanned Aerial Vehicles,Eleron-3SV
+Reconnaissance Unmanned Aerial Vehicles,Orlan-30
+Reconnaissance Unmanned Aerial Vehicles,Eleron-10
+Reconnaissance Unmanned Aerial Vehicles,Eleron
+Reconnaissance Unmanned Aerial Vehicles,Orlan-20
+Reconnaissance Unmanned Aerial Vehicles,Takhion
+Reconnaissance Unmanned Aerial Vehicles,Granat-3
+Reconnaissance Unmanned Aerial Vehicles,421-16ЕM
+Reconnaissance Unmanned Aerial Vehicles,Granat-4
+Reconnaissance Unmanned Aerial Vehicles,Eleron-3
+Reconnaissance Unmanned Aerial Vehicles,350
+Reconnaissance Unmanned Aerial Vehicles,M5
+Reconnaissance Unmanned Aerial Vehicles,Supercam
+Reconnaissance Unmanned Aerial Vehicles,S150
+Reconnaissance Unmanned Aerial Vehicles,Lastochka-M
+Reconnaissance Unmanned Aerial Vehicles,ZALA
+Reconnaissance Unmanned Aerial Vehicles,Z-20
+Rocket and missile artillery,122mm
+Rocket and missile artillery,300mm
+Rocket and missile artillery,220mm
+Self-Propelled Anti-Tank Missile Systems,9P163M-1
+Self-Propelled Anti-Tank Missile Systems,9K132
+Self-Propelled Anti-Tank Missile Systems,9P148
+Self-Propelled Anti-Tank Missile Systems,9P149
+Self-propelled artillery,120mm
+Self-propelled artillery,203mm
+Self-propelled artillery,152mm
+Self-propelled artillery,240mm
+Tanks,T-62M
+Tanks,T-64BVK
+Tanks,T-62MV
+Tanks,T-54
+Tanks,T-90M
+Tanks,T-55A
+Tanks,T-64BV
+Tanks,T-54B
+Tanks,T-90S
+Tanks,T-62
+Tanks,T-54-3M
+Tanks,T-80BVK
+Tanks,T-80U
+Tanks,T-90AK
+Tanks,T-72A
+Tanks,T-72AV
+Tanks,T-90A
+Tanks,T-80BVM
+Tanks,T-80UM2
+Tanks,T-72B
+Tanks,T-80UE-1
+Tanks,T-72BA
+Tanks,T-72B3
+Tanks,T-80B
+Tanks,T-80UK
+Tanks,T-72
+Tanks,T-80BV
+Tanks,
+Tanks,T-64A
+Tanks,T-64B1M
+Tanks,T-80
+Towed artillery,82mm
+Towed artillery,100mm
+Towed artillery,130mm
+Transport,73V6
+Transport,MAZ-531605
+Transport,DT-30
+Transport,DT-10PM
+Transport,Ural-532301
+Transport,9A85-2
+Transport,BAZ-69092
+Transport,KamAZ-65117
+Transport,2F510
+Transport,9T44
+Transport,2F77M
+Transport,KamAZ-395800
+Transport,MAZ-500
+Transport,GAZ-S41A23
+Transport,9T34-2
+Transport,MAZ-5337
+Transport,UAZ-515195
+"Trucks, Vehicles, and Jeeps",KamAZ
+"Trucks, Vehicles, and Jeeps",AS-4350
+"Trucks, Vehicles, and Jeeps",medical
+"Trucks, Vehicles, and Jeeps",KamAZ-4385
+"Trucks, Vehicles, and Jeeps",AP-2
+"Trucks, Vehicles, and Jeeps",KamAZ-5350
+"Trucks, Vehicles, and Jeeps",KamAZ-6350
+"Trucks, Vehicles, and Jeeps",ATS-59G
+"Trucks, Vehicles, and Jeeps",UAZ-3151
+"Trucks, Vehicles, and Jeeps",low-loader
+"Trucks, Vehicles, and Jeeps",UAZ-23632-148-64
+"Trucks, Vehicles, and Jeeps",UAZ-469
+"Trucks, Vehicles, and Jeeps",UAZ-3153
+"Trucks, Vehicles, and Jeeps",CBRN
+"Trucks, Vehicles, and Jeeps",UAZ-452
+"Trucks, Vehicles, and Jeeps",UAZ-31514
+"Trucks, Vehicles, and Jeeps",UAZ-3303
+"Trucks, Vehicles, and Jeeps",MAZ
+"Trucks, Vehicles, and Jeeps",UAZ-39094
+"Trucks, Vehicles, and Jeeps",Esaul
+"Trucks, Vehicles, and Jeeps",UAZ-23632pickup
+"Trucks, Vehicles, and Jeeps",UAZ-394511
+"Trucks, Vehicles, and Jeeps",fuel
+"Trucks, Vehicles, and Jeeps",Ural-5323
+"Trucks, Vehicles, and Jeeps",Ural-63704-0010
+"Trucks, Vehicles, and Jeeps",LuAZ-969
+"Trucks, Vehicles, and Jeeps",GAZ-51
+"Trucks, Vehicles, and Jeeps",GAZ-66
+"Trucks, Vehicles, and Jeeps",GAZ-3308
+"Trucks, Vehicles, and Jeeps",GAZ
+"Trucks, Vehicles, and Jeeps",Sadko
+"Trucks, Vehicles, and Jeeps",KrAZ-255B
+"Trucks, Vehicles, and Jeeps",KrAZ-260
+"Trucks, Vehicles, and Jeeps",Ural-542301
+"Trucks, Vehicles, and Jeeps",transloading
+"Trucks, Vehicles, and Jeeps",transport
+"Trucks, Vehicles, and Jeeps",ZiL-131
+"Trucks, Vehicles, and Jeeps",PAK-200(M)
+"Trucks, Vehicles, and Jeeps",mobile
+"Trucks, Vehicles, and Jeeps",9T217
+"Trucks, Vehicles, and Jeeps",field
+"Trucks, Vehicles, and Jeeps",Ural-43206
+"Trucks, Vehicles, and Jeeps",Ural
+"Trucks, Vehicles, and Jeeps",UAZ
+"Trucks, Vehicles, and Jeeps",Ural-375D
+"Trucks, Vehicles, and Jeeps",airfield
+"Trucks, Vehicles, and Jeeps",engine
+"Trucks, Vehicles, and Jeeps",S-400)
+"Trucks, Vehicles, and Jeeps",9T244
+"Trucks, Vehicles, and Jeeps",Ural-4320
+Unmanned Combat Aerial Vehicles,Sukhoi
+Unmanned Combat Aerial Vehicles,T-16
+Unmanned Combat Aerial Vehicles,Orlan-10
+Unmanned Combat Aerial Vehicles,Korsar
+Unmanned Combat Aerial Vehicles,Orion
+Unmanned Ground Vehicles,armed
+Unmanned Ground Vehicles,mine-clearing
+Vessels,Training
