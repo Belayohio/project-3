@@ -11,7 +11,7 @@ CREATE TABLE "losses" (
     "type" VARCHAR(255) NOT NULL,
     "model" VARCHAR(255) NOT NULL,
     "status" VARCHAR(255) NOT NULL,
-    "date" DATETIME NOT NULL,
+    "date" DATE NOT NULL,
     "front" VARCHAR(255),  
     "oblast" VARCHAR(255),  
     "raion" VARCHAR(255),  
