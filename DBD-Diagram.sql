@@ -33,3 +33,35 @@ CREATE TABLE "tags" (
     "tag" VARCHAR(255) NOT NULL,
     CONSTRAINT "pk_tags" PRIMARY KEY ("id")
 );
+
+
+
+-- test query 
+SELECT 
+    l.id, 
+    e."Category", 
+    e."Equipment", 
+    l.model, 
+    l.oblast, 
+    l.status, 
+    string_agg(t.tag, ', ') AS tags
+FROM public.equipment e
+JOIN public.losses l
+  ON l.model LIKE '%' || e."Equipment" || '%'
+JOIN public.tags t
+  ON EXISTS (
+      SELECT 1
+      FROM unnest(string_to_array(l.tags, ',')) AS tag_id
+      WHERE tag_id = t.id::text
+  )
+WHERE l.status = 'Destroyed'
+  AND l.front = 'Central Russia'
+  AND l.tags IS NOT NULL
+GROUP BY 
+    l.id, 
+    e."Category", 
+    e."Equipment", 
+    l.model, 
+    l.oblast, 
+    l.status
+ORDER BY e."Category";
