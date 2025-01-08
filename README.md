@@ -1,5 +1,7 @@
 Project 3 
 
+Project related files are located in "Finished" folder
+
 our main csv files for the project are russia_losses_cleaned, equipment and tags.csv.    
  -- data was pulled from https://ukr.warspotting.net/api/losses/russia/ usign an API request.   
   -- we contacted ukr.warspotting  admin and asked for permission to use their data for our project.   
