@@ -5,7 +5,7 @@ Project related files are located in "Finished" folder
 our main csv files for the project are russia_losses_cleaned, equipment and tags.csv.    
  -- data was pulled from https://ukr.warspotting.net/api/losses/russia/ usign an API request.   
   -- we contacted ukr.warspotting  admin and asked for permission to use their data for our project.      
-  -- code used to pul the data in  -- generates_russia_losses.ipynb     
+  -- code used to pull the data in  -- generates_russia_losses.ipynb     
 additional (suplmentary) data was collected from oryxspioenkop.com using beautifull soup.      
   -- code to pull additional (suplmentary) data -- generates_equipment_by_category.ipynb     
 we worked on manuplation and cleaning of the data using jupyter notebook     
